@@ -1,0 +1,23 @@
+{
+  "lastUserId": 5,
+  "user": {
+    "ReubenJames": {
+      "email": "reubenjames@email.com",
+      "fullName": "Reuben James",
+      "password": "reubenjames",
+      "role": false,
+      "userId": 2,
+      "userName": "ReubenJames",
+      "vehicleRego": "CAR123"
+    },
+    "admin": {
+      "email": "admin@admin.com",
+      "fullName": "Admin",
+      "password": "admin",
+      "role": true,
+      "userId": 1,
+      "userName": "admin",
+      "vehicleRego": "ADMINS"
+    }
+  }
+}
